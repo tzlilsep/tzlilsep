@@ -41,8 +41,8 @@ React.js web application using JavaScript, HTML, and CSS.
 - **Excel-like client–server spreadsheet app** built with Java, JavaFX, and Tomcat, implementing a modular architecture.  
 - **Windows Desktop Checkers game** built with C# and .NET, applying advanced OOP principles.  
 - **Console games** developed in C and C++.  
-- **Machine Learning projects** – built a **CNN model** for image classification and an **XGBoost model** for predicting Alzheimer’s disease using UK Biobank data.
-
+- **Machine Learning projects** – built a **CNN model** for image classification and an **XGBoost model** for predicting Alzheimer’s disease using UK Biobank data. Applied **NLP** techniques for text classification.
+  
 ---
 
 🌍 **Languages:** Hebrew (Native), English (Advanced)
