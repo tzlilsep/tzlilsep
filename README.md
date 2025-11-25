@@ -40,9 +40,7 @@ React.js web application using JavaScript, HTML, and CSS.
 - **Windows Desktop Checkers game** built with C# and .NET, applying advanced OOP principles.  
 - **Console games** developed in C and C++.  
 - **Machine Learning projects** – built a **CNN model** for image classification and an **XGBoost model** for predicting Alzheimer’s disease using UK Biobank data.
-- 
+  
 ---
 
 🌍 **Languages:** Hebrew (Native), English (Advanced)
-
-Thank you for visiting my profile! 😊
