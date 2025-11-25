@@ -1,4 +1,4 @@
-## 👋 Hi there 
+## Hi there 👋 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?width=1000&lines=Computer+Science+B.Sc.+Graduate+%7C+Aspiring+Junior+Software+Developer)](https://git.io/typing-svg)
 
