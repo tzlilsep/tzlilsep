@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Computer+Science+B.Sc.+Graduate+%7C+Aspiring+Junior+Software+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?width=500&lines=Computer+Science+B.Sc.+Graduate+%7C+Aspiring+Junior+Software+Developer)](https://git.io/typing-svg)
 
 <!--
 **tzlilsep/tzlilsep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
