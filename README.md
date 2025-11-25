@@ -5,13 +5,15 @@
 ### 👩‍💻 About Me
 Computer Science B.Sc. graduate with a passion for coding and developing software solutions.  
 Throughout my degree and up to today, I have worked with modern, industry-relevant technologies and learned many tools independently.
+Highly motivated with a clear goal of starting my career as a software developer. I’m seeking to join a positive team with good people, grow professionally, and contribute my skills.
 
-Over the years, I have gained valuable personal qualities:
+---
+
+### 🌟 Personal Qualities
+- Fast learner with strong problem-solving abilities, highly organized, detail-oriented, and motivated by challenges.
 - During my military service I led a team of technicians, trained operators, and resolved complex issues under tight deadlines and high responsibility.  
 - Relocated independently to the Netherlands for a year, worked in a fast-paced international environment, operated fully in English, and developed strong adaptability and interpersonal communication skills.
 - Grew up in a kibbutz, developed independence and a strong work ethic from a young age.
-
-Highly motivated with a clear goal of starting my career as a software developer. I’m seeking to join a positive team with good people, grow professionally, and contribute my skills.
 
 ---
 
