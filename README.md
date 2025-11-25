@@ -1,11 +1,11 @@
 ## Hi there 👋 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?width=1000&lines=Computer+Science+B.Sc.+Graduate+%7C+Aspiring+Junior+Software+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?width=1000&size=40&lines=Computer+Science+B.Sc.+Graduate+%7C+Aspiring+Junior+Software+Developer)](https://git.io/typing-svg)
 
 ### 👩‍💻 About Me
 Computer Science B.Sc. graduate with a passion for coding and developing software solutions.  
 Throughout my degree and up to today, I have worked with modern, industry-relevant technologies and learned many tools independently.
-Highly motivated with a clear goal of starting my career as a software developer. I’m seeking to join a positive team with good people, grow professionally, and contribute my skills.
+Highly motivated with a clear goal of starting my career as a software developer. I’m seeking to join a positive team with good people, grow professionally, and contribute meaningfully.
 
 ---
 
