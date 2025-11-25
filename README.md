@@ -9,7 +9,7 @@ Highly motivated with a clear goal of starting my career as a software developer
 
 ---
 
-### 🌟 Personal Qualities
+### 🙋 Personal Qualities
 - Fast learner with strong problem-solving abilities, highly organized, detail-oriented, and motivated by challenges.
 - During my military service I led a team of technicians, trained operators, and resolved complex issues under tight deadlines and high responsibility.  
 - Relocated independently to the Netherlands for a year, worked in a fast-paced international environment, operated fully in English, and developed strong adaptability and interpersonal communication skills.
