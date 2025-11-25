@@ -4,7 +4,7 @@
 Computer Science B.Sc. graduate with a passion for coding and developing software solutions.  
 Throughout my degree and up to today, I have worked with modern, industry-relevant technologies and learned many tools independently.
 Highly motivated with a clear goal of starting my career as a software developer. 
-I’m seeking to join a positive team with good people, grow professionally, and contribute meaningfully.
+I’m seeking to join a development team with good people, grow professionally, and contribute meaningfully.
 
 ---
 
