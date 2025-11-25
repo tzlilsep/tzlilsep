@@ -7,7 +7,7 @@ Computer Science B.Sc. graduate with a passion for coding and developing softwar
 Throughout my degree and up to today, I have worked with modern, industry-relevant technologies and learned many tools independently.
 
 Over the years, I gained mportant Personal Qualities:
-- During my military service, I held a technical hardware–software role, led a team of technicians, and resolved complex issues under tight deadlines.
+- During my military service, I led a team of technicians, trained operators and resolving complex issues under tight deadlines and with a high level of responsibility. 
 - Relocated independently to the Netherlands for a year, working in a fast-paced international environment, Operated fully in English and developing strong adaptability and interpersonal communication skills.
 - Grew up in a kibbutz, building independence and a strong work ethic from a young age.
 
