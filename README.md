@@ -17,7 +17,7 @@ I’m seeking to join a development team with good people, grow professionally, 
 ---
 
 ### 🛠️ Skills
-**Languages:** Python, C#, C++, JavaScript (HTML, CSS), TypeScript  
+**Languages:** Python, C#, C++, JavaScript, TypeScript  
 **Frameworks:** .NET, React, React Native  
 **Tools:** Git, RESTful APIs, Docker (basics)  
 **Database & Cloud:** SQL, AWS EC2  
@@ -29,10 +29,6 @@ I’m seeking to join a development team with good people, grow professionally, 
 Developed and maintain an end-to-end mobile app using React Native (TypeScript) and .NET, deployed on AWS (EC2, Cognito, DynamoDB).  
 Built with a clean, feature-first architecture, integrating RESTful APIs between a .NET backend hosted on EC2 and the React Native frontend.  
 [View Project](https://github.com/tzlilsep/Recipe-Manager-Mobile-App)
-
-#### 💻 **Knowledge Boost Web App**  
-React.js web application using JavaScript, HTML, and CSS.  
-[View Project](https://github.com/tzlilsep/Knowledge-Boost-Web-App)
 
 ---
 
